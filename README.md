@@ -1,1 +1,1 @@
-CS 2400, Section 307
+CS 2400, Section 307 
